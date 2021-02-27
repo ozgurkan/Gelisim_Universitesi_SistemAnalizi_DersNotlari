@@ -1,0 +1,19 @@
+<script type="text/javascript" src="onyx.js"></script>
+<script type="text/javascript">
+	window.onload = function(){
+	
+		new onyx({
+			method : "POST",
+			url : "deneme.php",
+			data : "ad=Hakan&soyad=YOLAT",
+			async : true,
+			type : "json",
+			events : {
+				success : function(e){
+					console.log(e);
+				}
+			}
+		});
+	
+	};
+</script>

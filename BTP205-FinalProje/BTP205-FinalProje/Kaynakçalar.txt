@@ -1,0 +1,3 @@
+1-http://tr.wikipedia.org/wiki/JQuery
+2-http://www.frmtr.com/web-dizayn/441205-prototype-javascript-library-ile-neler-yapabilirsiniz.html
+3-http://www.gigablast.com/get?q=&c=dmoz3&d=197078788781&cnsp=0
